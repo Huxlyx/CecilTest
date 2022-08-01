@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32d40869-fa0d-4577-8274-df8c49d01b1c": {
+      "ProjectGuid": "32d40869-fa0d-4577-8274-df8c49d01b1c",
+      "DisplayName": "CecilTest",
+      "ColorIndex": 0
+    },
+    "0efa56d5-2831-4865-87d7-30e8ee627784": {
+      "ProjectGuid": "0efa56d5-2831-4865-87d7-30e8ee627784",
+      "DisplayName": "BaseProject",
+      "ColorIndex": 1
+    },
+    "806c4069-f27b-4de3-92cb-e5f2c1f7c674": {
+      "ProjectGuid": "806c4069-f27b-4de3-92cb-e5f2c1f7c674",
+      "DisplayName": "ReplacingProject",
+      "ColorIndex": 2
+    },
+    "6e3cc78b-d6f4-4e44-a101-4dbebabcd01d": {
+      "ProjectGuid": "6e3cc78b-d6f4-4e44-a101-4dbebabcd01d",
+      "DisplayName": "ReplaceProject",
+      "ColorIndex": 3
+    },
+    "22a0a924-f2fe-4880-a0fa-3469c1bc8b52": {
+      "ProjectGuid": "22a0a924-f2fe-4880-a0fa-3469c1bc8b52",
+      "DisplayName": "RunIt",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
