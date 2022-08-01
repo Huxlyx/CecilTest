@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RunIt/1.0.0": {
+        "dependencies": {
+          "BaseProject": "1.0.0",
+          "ReplaceProject": "1.0.0"
+        },
+        "runtime": {
+          "RunIt.dll": {}
+        }
+      },
+      "BaseProject/1.0.0": {
+        "runtime": {
+          "BaseProject.dll": {}
+        }
+      },
+      "ReplaceProject/1.0.0": {
+        "runtime": {
+          "ReplaceProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RunIt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaseProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReplaceProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

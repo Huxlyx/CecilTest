@@ -1,0 +1,12 @@
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\bin\Debug\net6.0\ReplaceProject.deps.json
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\bin\Debug\net6.0\ReplaceProject.dll
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\bin\Debug\net6.0\ReplaceProject.pdb
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\obj\Debug\net6.0\ReplaceProject.csproj.AssemblyReference.cache
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\obj\Debug\net6.0\ReplaceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\obj\Debug\net6.0\ReplaceProject.AssemblyInfoInputs.cache
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\obj\Debug\net6.0\ReplaceProject.AssemblyInfo.cs
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\obj\Debug\net6.0\ReplaceProject.csproj.CoreCompileInputs.cache
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\obj\Debug\net6.0\ReplaceProject.dll
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\obj\Debug\net6.0\refint\ReplaceProject.dll
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\obj\Debug\net6.0\ReplaceProject.pdb
+C:\Users\mteng\source\repos\CecilTest\ReplaceProject\obj\Debug\net6.0\ref\ReplaceProject.dll
